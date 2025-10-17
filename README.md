@@ -176,6 +176,17 @@ You can view the system demonstration below:
 
 ---
 
+## 🤝 Contributors
+| Name | GitHub |
+|------|---------|
+| **Bui Minh Thang** | [@BuiMinhThang](https://github.com/BuiMinhWin) |
+| **Bui Anh Kha** | [@BuiAnhKha](https://github.com/BuiAnhKha) |
+| **Dao Cong An Phuoc** | [@DaoCongAnPhuoc](https://github.com/AnPhuoc2410) |
+| **Nguyen Anh Quan**| [@NguyenAnhQuan](https://github.com/BlueBerryD42) |
+
+
+---
+
 ## 📚 References
 
 1. D. N. M. Dang et al., *“Her: Hybrid approach to enhance reliability in IoT networks,”* Proc. of Int. Conf. on IoT, 2014.
