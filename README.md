@@ -102,20 +102,27 @@ The Arduino and NodeMCU are programmed using **Arduino IDE**.
 
 ## 🎥 Demo Video
 
-👉 Watch the demo here:
-[![Demo Video](https://img.youtube.com/vi/hjgtLL5D074/0.jpg)](https://www.youtube.com/watch?v=hjgtLL5D074)
+You can view the system demonstration below:
+
+<video src="public/demo.mp4" controls width="600"></video>
+
+> If the video doesn’t play directly on GitHub, click [**this link**](public/demo.mp4?raw=true) to view or download it.
 
 ---
 
 ## 📷 Gallery
 
-Include your circuit and prototype images here:
+### 🔲 Block Diagram
 
-```
-/images/block_diagram.png
-/images/circuit_diagram.png
-/images/product.jpg
-```
+![Block Diagram](public/block_diagram.png)
+
+### 🧭 Circuit Map
+
+![Circuit Map](public/circuit_map.png)
+
+### 🔁 Flowchart
+
+![Flowchart](public/Flowchart.jpg)
 
 ---
 
@@ -123,6 +130,14 @@ Include your circuit and prototype images here:
 
 1. Open `.ino` file in **Arduino IDE**.
 2. Connect your **Arduino Uno R3** and **NodeMCU**.
-3. Install required libraries (WiFi, Blynk, etc.).
+3. Install required libraries (`WiFi`, `Blynk`, etc.).
 4. Upload the sketch.
 5. Observe alerts via Serial Monitor or Blynk app.
+
+---
+
+## 📚 References
+
+1. D. N. M. Dang et al., *“Her: Hybrid approach to enhance reliability in IoT networks,”* Proc. of Int. Conf. on IoT, 2014.
+2. N. T. Anh and D. N. Minh Dang, *“Waste management system using IoT,”* *Journal of Environmental Science*, vol. 8, no. 3, 2020.
+3. W. Li and X. Zhang, *“IoT Security: A Survey,”* *IEEE Internet of Things Journal*, vol. 5, no. 6, 2018.
