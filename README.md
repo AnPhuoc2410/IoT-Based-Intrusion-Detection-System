@@ -1,5 +1,14 @@
 # IoT-Based Intrusion Detection System Using NodeMCU and Arduino
 
+![GitHub top language](https://img.shields.io/github/languages/top/AnPhuoc2410/IoT-Based-Intrusion-Detection-System)
+![GitHub repo size](https://img.shields.io/github/repo-size/AnPhuoc2410/IoT-Based-Intrusion-Detection-System)
+![License](https://img.shields.io/github/license/AnPhuoc2410/IoT-Based-Intrusion-Detection-System)
+![Arduino IDE](https://img.shields.io/badge/Arduino-IDE-blue?logo=arduino)
+![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
+
+
+---
+
 ## 📘 Overview
 
 This project presents an **IoT-based intrusion detection system** that combines **NodeMCU** and **Arduino** to create a cost-effective, reliable home and office security solution.
@@ -51,6 +60,34 @@ The system detects motion using a **PIR sensor**, receives signals via an **IR s
 | D13         | -       | -          | -         | -            | +           | -      | -   |
 | A4          | -       | -          | -         | -            | -           | -      | SDA |
 | A5          | -       | -          | -         | -            | -           | -      | SCL |
+
+---
+
+
+## 📦 Installation
+
+### 🧰 Requirements
+
+* **Arduino IDE** (latest version)
+* **NodeMCU (ESP8266)** board support installed
+* USB cable for flashing Arduino & NodeMCU
+
+### 📚 Required Libraries
+
+Before uploading the code, install the following libraries in Arduino IDE:
+
+1. **ESP8266WiFi** — built-in with NodeMCU board package
+2. **Blynk** — for sending notifications (Install from Library Manager)
+3. **RTClib** — for real-time clock management
+4. **Wire.h** — for I2C communication (included by default)
+
+**Steps:**
+
+1. Open Arduino IDE → *Tools → Manage Libraries...*
+2. Search and install the libraries above.
+3. Go to *Tools → Board → Boards Manager...* → install **ESP8266 by ESP8266 Community**.
+4. Select **NodeMCU 1.0 (ESP-12E Module)** as the board.
+5. Verify the COM port for Arduino Uno and NodeMCU before uploading.
 
 ---
 
@@ -107,6 +144,9 @@ You can view the system demonstration below:
 <video src="public/demo.mp4" controls width="600"></video>
 
 > If the video doesn’t play directly on GitHub, click [**this link**](public/demo.mp4?raw=true) to view or download it.
+
+🎬 Watch the full demo on YouTube:
+[![Demo Video](https://img.youtube.com/vi/hjgtLL5D074/0.jpg)](https://www.youtube.com/watch?v=hjgtLL5D074)
 
 ---
 
