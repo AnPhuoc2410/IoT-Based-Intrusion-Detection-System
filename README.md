@@ -180,7 +180,7 @@ You can view the system demonstration below:
 | Name | GitHub |
 |------|---------|
 | **Bui Minh Thang** | [@BuiMinhThang](https://github.com/BuiMinhWin) |
-| **Bui Anh Kha** | [@BuiAnhKha](https://github.com/BuiAnhKha) |
+| **Bui Anh Kha** | [@BuiAnhKha](https://github.com/notKaaaa) |
 | **Dao Cong An Phuoc** | [@DaoCongAnPhuoc](https://github.com/AnPhuoc2410) |
 | **Nguyen Anh Quan**| [@NguyenAnhQuan](https://github.com/BlueBerryD42) |
 
